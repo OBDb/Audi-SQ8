@@ -1,0 +1,7 @@
+command_id: 710.77A.222AB6|fc=1
+test_cases:
+- expected_values:
+    SQ8_RANGE_V2: 100
+  response: |-
+    77A100A622AB6006400
+    77A216407FD01AAAAAA

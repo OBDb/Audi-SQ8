@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_Q8"
+
+generations:
+  - name: "First Generation (4M)"
+    start_year: 2020
+    end_year: null
+    description: "The performance Q8 with the 4.0 L TFSI V8 (a 4.0 TDI V8 in Europe at first)."
